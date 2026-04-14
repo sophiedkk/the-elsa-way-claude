@@ -21,6 +21,9 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Reference repositories (not part of this project)
+the-turing-way/
+
 # Editor
 .vscode/
 .idea/
