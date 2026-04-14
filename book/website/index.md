@@ -1,6 +1,11 @@
 (welcome)=
 # Welcome to The ELSA Way
 
+:::{warning} Vibe coding experiment
+This site is the output of a vibe coding experiment. All content — including chapter text, structure, and references — was generated entirely by [Claude Code](https://claude.ai/code) based on the project requirements, the ELSA Way description, and the FUTURE-AI framework. It has not been reviewed or validated by the ELSA Way team. Do not use this content as authoritative guidance.
+:::
+
+
 **The ELSA Way** is a freely accessible, community-driven handbook for developing AI systems that are ethical, legal, social, and accessible (ELSA) by design — throughout every phase of the AI lifecycle in healthcare.
 
 ::::{grid} 2
